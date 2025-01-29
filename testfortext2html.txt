@@ -1,0 +1,19 @@
+For Normal Text:
+Hi! What's up?
+ 
+This is for bold word :
+From *codengocool *
+
+Check   Link :
+"CodeNgoCool": Link
+
+For Ordered List :
+# Bread
+# Butter
+# Biscuit
+
+For Unordered List :
+* Python
+* Java
+* C
+For & :
