@@ -11,33 +11,22 @@ This is a simple Python-based GUI application that converts Textile-formatted te
 ## Requirements
 Ensure you have Python installed along with the required dependencies:
 
-```bash
-pip install textile
+pip install textile 
 
-# How to Run
- Clone the repository or download the script.
-Install dependencies using pip install textile.
- Run the script using:
-bash
-Copy
-Edit
+## How to Run
+1. Clone the repository or download the script.
+2. Install dependencies using pip install textile.
+3. Run the script using:
+python text2html.py
+4. Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
+# File Structure
 python text2html.py
 Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
-File Structure
-
-python text2html.py
-Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
-File Structure
-text2html.py: Main Python script that contains the conversion logic.
-Future Improvements
-Add a feature to save the converted HTML to a file.
-Improve the UI layout for better usability.
-Support more text formatting options.
-License
+# Future Improvements
+ - Add a feature to save the converted HTML to a file.
+ - Improve the UI layout for better usability.
+ - Support more text formatting options.
+# License
 This project is open-source and available under the MIT License.
-
-vbnet
-Copy
-Edit
-
+```bash
 Let me know if you need any changes! 🚀
