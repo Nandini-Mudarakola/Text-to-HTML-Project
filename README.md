@@ -16,11 +16,11 @@ pip install textile
 ## How to Run
 1. Clone the repository or download the script.
 2. Install dependencies using pip install textile.
-3. Run the script using:
-python text2html.py
+3. Run the script using:<br>
+  python text2html.py
 4. Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
 # File Structure
-python text2html.py
+python text2html.py<br>
 Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
 # Future Improvements
  - Add a feature to save the converted HTML to a file.
