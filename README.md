@@ -10,8 +10,8 @@ This is a simple Python-based GUI application that converts Textile-formatted te
 
 ## Requirements
 Ensure you have Python installed along with the required dependencies:
-
-pip install textile 
+```bash
+pip install textile<br>
 
 ## How to Run
 1. Clone the repository or download the script.
