@@ -23,7 +23,7 @@ pip install textile<br>
 4. Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
 # File Structure
 ```
-python text2html.py<br>
+python text2html.py
 ```
 Enter Textile-formatted text in the input box and press "Submit" to convert it to HTML.
 # Future Improvements
